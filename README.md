@@ -19,7 +19,7 @@ Python works on indentation basis ( 4 spaces or 1 tab). So the next statement i.
  
 If you are using Python version 2 then remove the parentheses after print.
 
-   ** print("Rolling the dices...")**
+    **print("Rolling the dices...")**
     **print("The values are....")**
     **print(random.randint(min, max))**
     **print(random.randint(min, max))**
@@ -27,4 +27,4 @@ If you are using Python version 2 then remove the parentheses after print.
 If you are using Python2 then use raw_input instead of input method. 
 Python also has a feature which lets you interact with the outside world to get input. The raw_input() function waits for the user to type some input and press return. It then gets whatever was typed.
 
-   ** roll_again = input("Roll the dices again?")**
+   **roll_again = input("Roll the dices again?")**
